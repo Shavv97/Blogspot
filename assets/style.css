@@ -24,3 +24,11 @@ p {
   font-size: 1.25rem;
   max-width: 75ch;
 }
+
+img {
+  max-width: 100%;
+}
+
+figure {
+  margin: 2rem 0;
+}
